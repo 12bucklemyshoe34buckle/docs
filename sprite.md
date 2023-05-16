@@ -10,7 +10,7 @@ In Aseprite a document/file/sprite has the following properties:
 1. A [color profile](color-profile.md) which indicates what color space the RGB values are in.
 1. It contains a set of layers. You can see them in
    the [Timeline](timeline.md). The most important concept here is
-   that there are two kinds of layers:
+   that there are two kinds of layers:blue
    the [background layer](layers.md#background-layer) for opaque sprites, and
    [transparent layers](layers.md#transparent-layers).
    A sprite can contain only one background layer, but several
